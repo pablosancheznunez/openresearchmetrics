@@ -11,6 +11,14 @@ authors:
 url: "https://pablosancheznunez.com/openresearchmetrics/"
 repository-code: "https://github.com/pablosancheznunez/openresearchmetrics"
 license: MIT
+doi: 10.5281/zenodo.23881633
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23881633
+    description: "Concept DOI: all versions, resolves to the latest"
+  - type: doi
+    value: 10.5281/zenodo.23881634
+    description: "First release"
 keywords:
   - open science
   - responsible research assessment

@@ -1,5 +1,7 @@
 # OpenResearchMetrics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23881633.svg)](https://doi.org/10.5281/zenodo.23881633)
+
 Transparent open science indicators for responsible research assessment. Each indicator is reported on its own, with the evidence behind it, how it was computed and what it cannot see. **There is no composite score.**
 
 **Use it in the browser:** <https://pablosancheznunez.com/openresearchmetrics/>. Enter an ORCID iD; the page queries OpenAlex, DataCite and the OpenAIRE Graph directly from your browser.
