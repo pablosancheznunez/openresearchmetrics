@@ -12,15 +12,15 @@ Open an issue with a draft card: name, family, definition, rationale, numerator,
 - Catalog against its schema: `pip install jsonschema && python tests/validate_schema.py`.
 - Live API contracts (network): `node --test tests/live/contract.js`.
 
-## Changes that may be made without the maintainer's review
+## Small changes (welcome as pull requests)
 
 - Connector code in `src/connectors.js` when an API changes shape, together with the matching recorded responses in `tests/fixtures/`.
 - Documentation, the web page layout and styles.
 
-## Changes that always need the maintainer's review
+## Changes to discuss in an issue first
 
 - `data/`, `schema/`, `src/engine.js` and `tests/regression/`: the indicator definitions, their procedures and expected results.
-- Workflows, `.maintenance.json`, `CODEOWNERS` and this file.
+- Workflows and this file.
 
 Tests are never weakened or deleted to make them pass.
 
