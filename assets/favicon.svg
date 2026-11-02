@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OpenResearchMetrics">
+  <rect width="64" height="64" rx="12" fill="#5b3f7a"/>
+  <rect x="10" y="22" width="8" height="30" rx="2" fill="#ffffff"/>
+  <rect x="22" y="32" width="8" height="20" rx="2" fill="#d6cbe6"/>
+  <rect x="34" y="16" width="8" height="36" rx="2" fill="#ffffff"/>
+  <rect x="46" y="28" width="8" height="24" rx="2" fill="#d6cbe6"/>
+</svg>
