@@ -2,7 +2,7 @@
 
 Transparent open science indicators for responsible research assessment. Each indicator is reported on its own, with the evidence behind it, how it was computed and what it cannot see. **There is no composite score.**
 
-**Use it in the browser:** <https://pablosancheznunez.github.io/openresearchmetrics/>. Enter an ORCID iD; the page queries OpenAlex, DataCite and the OpenAIRE Graph directly from your browser.
+**Use it in the browser:** <https://pablosancheznunez.com/openresearchmetrics/>. Enter an ORCID iD; the page queries OpenAlex, DataCite and the OpenAIRE Graph directly from your browser.
 
 ## Indicators (catalog 0.1.0)
 
@@ -21,7 +21,7 @@ Transparent open science indicators for responsible research assessment. Each in
 Every indicator has a card in [`data/indicators.json`](data/indicators.json): definition, rationale, numerator, denominator, sources, limitations and methodology version. Use the catalog from any language:
 
 ```r
-catalog <- jsonlite::fromJSON("https://pablosancheznunez.github.io/openresearchmetrics/data/indicators.json")
+catalog <- jsonlite::fromJSON("https://pablosancheznunez.com/openresearchmetrics/data/indicators.json")
 ```
 
 ## Principles
@@ -38,7 +38,7 @@ Maintained with [research-tools-ops](https://github.com/pablosancheznunez/resear
 ## Tests
 
 ```bash
-node --test tests/                    # catalog, engine, connectors, regression
+node --test                    # catalog, engine, connectors, regression
 node --test tests/live/contract.js    # live APIs
 python tests/validate_schema.py       # needs: pip install jsonschema
 ```

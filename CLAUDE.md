@@ -5,7 +5,7 @@ pablosancheznunez/research-tools-ops). Follow these rules.
 
 ## Test commands
 
-- `node --test tests/` must pass. Node 22 or later, no dependencies.
+- `node --test` must pass. Node 22 or later (CI uses 24), no dependencies.
 - `python tests/validate_schema.py` (needs `pip install jsonschema`).
 
 ## What you may change on your own

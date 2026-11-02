@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://pablosancheznunez.github.io/openresearchmetrics/schema/indicators.schema.json",
+  "$id": "https://pablosancheznunez.com/openresearchmetrics/schema/indicators.schema.json",
   "title": "OpenResearchMetrics indicator catalog",
   "type": "object",
   "required": ["catalog_version", "valid_from", "families", "indicators"],
