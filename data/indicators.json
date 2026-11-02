@@ -1,7 +1,7 @@
 {
   "catalog_version": "0.1.0",
   "valid_from": "2026-11-02",
-  "status": "draft: pending expert review",
+  "status": "draft: fields checked against live OpenAlex, DataCite (schema 4.5+, incl. StudyRegistration) and OpenAIRE Graph v1 responses; pending review by research assessment experts",
   "principles": [
     "Each indicator is reported on its own, with its evidence and its limits. There is no composite score.",
     "An indicator that cannot be verified from the sources consulted is reported as unverifiable, never as zero.",
