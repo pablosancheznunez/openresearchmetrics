@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenResearchMetrics</title>
+  <meta name="description" content="Transparent open science indicators for responsible research assessment: each one reported on its own, with its evidence and its limits. No composite score.">
+  <link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+  <header class="wrap">
+    <h1>OpenResearchMetrics</h1>
+    <p class="lead">Open science practices of a researcher, documented from OpenAlex, DataCite and the OpenAIRE Graph. Every indicator stands alone, shows how it was computed and what it cannot see. There is no overall score.</p>
+    <nav class="links">
+      <a href="https://github.com/pablosancheznunez/openresearchmetrics">Source</a>
+      <a href="data/indicators.json">Indicator catalog (JSON)</a>
+      <a href="schema/indicators.schema.json">Schema</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <form id="form" class="card">
+      <label>ORCID iD
+        <input id="orcid" placeholder="0000-0002-1825-0097" autocomplete="off" spellcheck="false">
+      </label>
+      <span></span>
+      <button type="submit">Assess</button>
+      <p class="note">Requests go straight from your browser to the public APIs. Nothing is stored or sent anywhere else.</p>
+    </form>
+
+    <p id="message" role="status" aria-live="polite"></p>
+
+    <section id="results" hidden>
+      <div class="caveat"><strong>These indicators describe open practices, not research quality.</strong> Compare them only with care: disciplines differ, and sources only see what is linked to the ORCID iD.</div>
+      <h2>Sources consulted</h2>
+      <ul id="sources" class="sources"></ul>
+      <div class="downloads">
+        <button type="button" id="dl-json">Download report (JSON)</button>
+        <button type="button" id="dl-csv">Download indicators (CSV)</button>
+      </div>
+    </section>
+
+    <div id="families"></div>
+  </main>
+
+  <footer class="wrap">
+    <p id="version" class="note"></p>
+    <p>Aligned with DORA and CoARA: indicators support, never replace, qualitative assessment. Code MIT, catalog CC BY 4.0. Part of <a href="https://github.com/pablosancheznunez/research-tools-ops">research-tools-ops</a>.</p>
+  </footer>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

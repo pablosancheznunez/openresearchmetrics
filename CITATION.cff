@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use OpenResearchMetrics, please cite it as below."
+type: software
+title: "OpenResearchMetrics: transparent open science indicators for responsible research assessment"
+version: 0.1.0
+date-released: 2026-11-02
+authors:
+  - family-names: "Sánchez-Núñez"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0000-0001-7845-9506"
+url: "https://pablosancheznunez.github.io/openresearchmetrics/"
+repository-code: "https://github.com/pablosancheznunez/openresearchmetrics"
+license: MIT
+keywords:
+  - open science
+  - responsible research assessment
+  - DORA
+  - CoARA
+  - research indicators
+  - metaresearch
+abstract: >-
+  A versioned catalog of open science indicators (availability, accessibility,
+  reuse, declared reproducibility and methodological transparency) and a
+  dependency-free engine and web tool that compute them from OpenAlex,
+  DataCite and the OpenAIRE Graph. Each indicator is reported on its own with
+  its evidence and limitations; there is no composite score.

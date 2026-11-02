@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pablosancheznunez.github.io/openresearchmetrics/schema/indicators.schema.json",
+  "title": "OpenResearchMetrics indicator catalog",
+  "type": "object",
+  "required": ["catalog_version", "valid_from", "families", "indicators"],
+  "properties": {
+    "catalog_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "valid_from": { "type": "string", "format": "date" },
+    "status": { "type": "string" },
+    "principles": { "type": "array", "items": { "type": "string" } },
+    "families": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "question"],
+        "properties": { "id": { "type": "string" }, "name": { "type": "string" }, "question": { "type": "string" } }
+      }
+    },
+    "indicators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "family", "definition", "rationale", "unit_of_analysis", "numerator", "denominator", "sources", "limitations", "methodology_version"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string" },
+          "family": { "enum": ["availability", "accessibility", "reuse", "reproducibility", "transparency"] },
+          "definition": { "type": "string", "minLength": 1 },
+          "rationale": { "type": "string", "minLength": 1 },
+          "unit_of_analysis": { "enum": ["researcher"] },
+          "numerator": { "type": "string" },
+          "denominator": { "type": ["string", "null"] },
+          "sources": { "type": "array", "items": { "enum": ["openalex", "datacite", "openaire"] }, "minItems": 1 },
+          "limitations": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "methodology_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" }
+        }
+      }
+    }
+  }
+}

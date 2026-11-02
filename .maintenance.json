@@ -1,0 +1,7 @@
+{
+  "risk_paths": {
+    "high": ["data/**", "schema/**", "tests/regression/**", "src/engine.js"],
+    "low": ["README.md", "docs/**", "index.html", "src/style.css"]
+  },
+  "release": { "version_files": ["CITATION.cff"] }
+}

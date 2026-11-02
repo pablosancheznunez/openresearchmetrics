@@ -1,0 +1,330 @@
+{
+ "results": [
+  {
+   "id": "https://openalex.org/W2508646516",
+   "doi": "https://doi.org/10.1177/0269216316665562",
+   "title": "‘Dignity therapy’, a promising intervention in palliative care: A comprehensive systematic literature review",
+   "type": "review",
+   "publication_year": 2016,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/0269216316665562",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W2155292125",
+   "doi": "https://doi.org/10.1161/01.hyp.0000143483.66701.ec",
+   "title": "Endothelial NO Synthase Genotype and Risk of Preeclampsia",
+   "type": "article",
+   "publication_year": 2004,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2470898565",
+   "doi": "https://doi.org/10.1590/1809-4422asoc121132v1922016",
+   "title": "ALTERNATIVE FOOD NETWORKS AND NEW PRODUCER-CONSUMER RELATIONS IN FRANCE AND IN BRAZIL",
+   "type": "article",
+   "publication_year": 2016,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "http://www.scielo.br/pdf/asoc/v19n2/1809-4422-asoc-19-02-00001.pdf",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W2901858332",
+   "doi": null,
+   "title": "Manajemen dan Riset Sumber Daya Manusia",
+   "type": "article",
+   "publication_year": 2018,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W4319602423",
+   "doi": "https://doi.org/10.21927/ijeeti.2023.2(1).20-31",
+   "title": "Definisi Dan Teori Pendekatan, Strategi, Dan Metode Pembelajaran",
+   "type": "article",
+   "publication_year": 2023,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://ejournal.almaata.ac.id/index.php/IJEETI/article/download/2621/1765",
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W4407154702",
+   "doi": "https://doi.org/10.5269/bspm.66792",
+   "title": "Primal topological spaces",
+   "type": "article",
+   "publication_year": 2025,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://periodicos.uem.br/ojs/index.php/BSocParanMat/article/download/66792/751375159080/",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W3036507165",
+   "doi": "https://doi.org/10.1177/1536867x20930999",
+   "title": "Visualization strategies for regression estimates with randomization inference",
+   "type": "article",
+   "publication_year": 2020,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "http://ageconsearch.umn.edu/record/340363",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W4408236070",
+   "doi": "https://doi.org/10.1109/tvcg.2025.3549187",
+   "title": "Look at the Sky: Sky-Aware Efficient 3D Gaussian Splatting in the Wild",
+   "type": "article",
+   "publication_year": 2025,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W4409312371",
+   "doi": "https://doi.org/10.1007/s11071-025-11058-7",
+   "title": "Dynamic analysis and vibration control of a plate-type satellite with flexible solar array system and joint clearance",
+   "type": "article",
+   "publication_year": 2025,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2149691673",
+   "doi": "https://doi.org/10.1016/j.ecolecon.2010.04.016",
+   "title": "Certified organic agriculture in China and Brazil: Market accessibility and outcomes following adoption",
+   "type": "article",
+   "publication_year": 2010,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2326386681",
+   "doi": "https://doi.org/10.1021/cg5008878",
+   "title": "Influence of Controlled Fluid Shear on Nucleation Rates in Glycine Aqueous Solutions",
+   "type": "article",
+   "publication_year": 2014,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2055450424",
+   "doi": "https://doi.org/10.1007/s13165-011-0014-3",
+   "title": "Environmental assessment of organic juice imported to Denmark: a case study on oranges (Citrus sinensis) from Brazil",
+   "type": "article",
+   "publication_year": 2011,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2122169017",
+   "doi": "https://doi.org/10.1364/ao.44.003675",
+   "title": "Wide-bandwidth mode-hop-free tuning of extended-cavity GaN diode lasers",
+   "type": "article",
+   "publication_year": 2005,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://opg.optica.org/viewmedia.cfm?uri=ao-44-18-3675&seq=0",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W103879864",
+   "doi": null,
+   "title": "[Predictive validity of the Scale of Prodromal Symptoms (SOPS)].",
+   "type": "article",
+   "publication_year": 2006,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2418778595",
+   "doi": "https://doi.org/10.1021/acs.cgd.6b00046",
+   "title": "Filtration Suppresses Laser-Induced Nucleation of Glycine in Aqueous Solutions",
+   "type": "article",
+   "publication_year": 2016,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2061929444",
+   "doi": "https://doi.org/10.1021/cg3005689",
+   "title": "In Situ Monitoring of Stirring Effects on Polymorphic Transformations during Cooling Crystallization of Carbamazepine",
+   "type": "article",
+   "publication_year": 2012,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2901908864",
+   "doi": "https://doi.org/10.1016/j.jpainsymman.2018.11.016",
+   "title": "Multicenter Study of the Psychometric Properties of the New Demoralization Scale (DS-II) in Spanish-Speaking Advanced Cancer Patients",
+   "type": "article",
+   "publication_year": 2018,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.jpsmjournal.com/article/S0885-3924(18)31078-9/pdf",
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W1983989218",
+   "doi": "https://doi.org/10.1016/j.proci.2010.05.062",
+   "title": "A method for performing high accuracy temperature measurements in low-pressure sooting flames using two-line atomic fluorescence",
+   "type": "article",
+   "publication_year": 2010,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W1977645004",
+   "doi": "https://doi.org/10.1007/s00520-012-1476-x",
+   "title": "A new palliative care consultation team at the oncology department of a university hospital: an assessment of initial efficiency and effectiveness",
+   "type": "article",
+   "publication_year": 2012,
+   "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2194227006",
+   "doi": "https://doi.org/10.1021/acs.cgd.5b01042",
+   "title": "Scaling of Glycine Nucleation Kinetics with Shear Rate and Glass–Liquid Interfacial Area",
+   "type": "article",
+   "publication_year": 2015,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.cgd.5b01042?ref=article_openPDF",
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2963675764",
+   "doi": "https://doi.org/10.23960/komputasi.v7i1.2051",
+   "title": "Sistem Informasi Manajemen Keuangan pada PT. Hulu Balang Mandiri Menggunakan Framework Laravel",
+   "type": "article",
+   "publication_year": 2019,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://jurnal.fmipa.unila.ac.id/komputasi/article/download/2051/1551",
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W2982038469",
+   "doi": "https://doi.org/10.1088/1742-6596/1338/1/012061",
+   "title": "k-Nearest Neighbor (k-NN) Classification for Recognition of the Batik Lampung Motifs",
+   "type": "conference-paper",
+   "publication_year": 2019,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1338/1/012061/pdf",
+    "any_repository_has_fulltext": false
+   }
+  },
+  {
+   "id": "https://openalex.org/W3010676028",
+   "doi": "https://doi.org/10.15294/jejak.v13i1.20178",
+   "title": "Does Agricultural Performance Contribute to Rural Poverty Reduction in Indonesia?",
+   "type": "article",
+   "publication_year": 2020,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://journal.unnes.ac.id/nju/index.php/jejak/article/download/20178/10121",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W2418966251",
+   "doi": "https://doi.org/10.1136/bmjspcare-2015-000997",
+   "title": "Characteristics of the case mix, organisation and delivery in cancer palliative care: a challenge for good-quality research",
+   "type": "article",
+   "publication_year": 2016,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://spcare.bmj.com/content/bmjspcare/8/4/456.full.pdf",
+    "any_repository_has_fulltext": true
+   }
+  },
+  {
+   "id": "https://openalex.org/W2396441275",
+   "doi": "https://doi.org/10.5555/12345678",
+   "title": "Toward a Unified Theory of High-Energy Metaphysics: Silly String Theory",
+   "type": "article",
+   "publication_year": 2008,
+   "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.5555/12345678",
+    "any_repository_has_fulltext": false
+   }
+  }
+ ],
+ "group_by": []
+}
