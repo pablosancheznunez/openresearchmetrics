@@ -26,7 +26,7 @@ Turn a parsed JSON response (from \code{jsonlite::fromJSON(simplifyVector = FALS
 network; \code{\link[=orm_collect]{orm_collect()}} calls them on live responses.
 }
 \examples{
-ex <- system.file("extdata", "examples", "openalex.json", package = "openresearchmetrics")
+ex <- system.file("extdata", "examples", "openalex.json", package = "ORMetrics")
 items <- orm_normalize_openalex(jsonlite::fromJSON(ex, simplifyVector = FALSE))
 length(items)
 str(items[[1]])

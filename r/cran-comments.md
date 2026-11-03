@@ -1,6 +1,6 @@
 ## Submission
 
-First submission of openresearchmetrics.
+First submission of ORMetrics.
 
 ## Test environments
 

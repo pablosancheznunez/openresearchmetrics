@@ -1,4 +1,4 @@
-# openresearchmetrics (R package)
+# ORMetrics (R package)
 
 The R counterpart of the [OpenResearchMetrics web tool](https://pablosancheznunez.com/openresearchmetrics/): transparent open science indicators for responsible research assessment. Each indicator is reported on its own, with its evidence, the sources consulted and its limits. **There is no composite score**, and an indicator that cannot be verified is `unverifiable`, never zero.
 
@@ -8,7 +8,7 @@ Status: **prototype**. The engine is checked against the web tool's regression r
 # install.packages("remotes")
 remotes::install_github("pablosancheznunez/openresearchmetrics", subdir = "r")
 
-library(openresearchmetrics)
+library(ORMetrics)
 report <- orm_assess("0000-0002-1825-0097")   # OpenAlex, DataCite, OpenAIRE
 report
 as.data.frame(report)

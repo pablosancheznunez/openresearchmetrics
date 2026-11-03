@@ -1,4 +1,4 @@
-#' openresearchmetrics: transparent open science indicators
+#' ORMetrics: transparent open science indicators
 #'
 #' The R counterpart of the OpenResearchMetrics web tool. Both read the same
 #' catalogue (`orm_catalog()`), normalise the same API responses and must

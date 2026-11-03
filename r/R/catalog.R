@@ -13,7 +13,7 @@
 #' cat_$catalog_version
 #' orm_indicators()[, c("id", "family", "methodology_version")]
 orm_catalog <- function() {
-  jsonlite::read_json(system.file("extdata", "indicators.json", package = "openresearchmetrics"),
+  jsonlite::read_json(system.file("extdata", "indicators.json", package = "ORMetrics"),
                       simplifyVector = FALSE)
 }
 

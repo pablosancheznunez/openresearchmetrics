@@ -1,4 +1,4 @@
 library(testthat)
-library(openresearchmetrics)
+library(ORMetrics)
 
-test_check("openresearchmetrics")
+test_check("ORMetrics")

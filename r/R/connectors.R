@@ -60,7 +60,7 @@ ev_item <- function(source, type = NULL, title = NULL, year = NULL, url = NULL, 
 #'   `access_right` and `citations` (`NULL` when the source does not say).
 #' @name normalize
 #' @examples
-#' ex <- system.file("extdata", "examples", "openalex.json", package = "openresearchmetrics")
+#' ex <- system.file("extdata", "examples", "openalex.json", package = "ORMetrics")
 #' items <- orm_normalize_openalex(jsonlite::fromJSON(ex, simplifyVector = FALSE))
 #' length(items)
 #' str(items[[1]])
@@ -108,7 +108,7 @@ orm_normalize_openaire <- function(json) {
 get_json <- function(url) {
   h <- curl::new_handle()
   curl::handle_setheaders(h, Accept = "application/json",
-                          `User-Agent` = "openresearchmetrics R package (https://github.com/pablosancheznunez/openresearchmetrics)")
+                          `User-Agent` = "ORMetrics R package (https://github.com/pablosancheznunez/openresearchmetrics)")
   res <- curl::curl_fetch_memory(url, handle = h)
   if (res$status_code >= 400) stop(res$status_code, " for ", url, call. = FALSE)
   jsonlite::fromJSON(rawToChar(res$content), simplifyVector = FALSE)
@@ -192,7 +192,7 @@ orm_collect <- function(orcid, sources = orm_sources) {
 orm_example_evidence <- function() {
   read <- function(src) {
     jsonlite::fromJSON(system.file("extdata", "examples", paste0(src, ".json"),
-                                   package = "openresearchmetrics"), simplifyVector = FALSE)
+                                   package = "ORMetrics"), simplifyVector = FALSE)
   }
   evidence <- c(orm_normalize_openalex(read("openalex")),
                 orm_normalize_datacite(read("datacite")),
