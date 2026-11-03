@@ -3,3 +3,6 @@
 /tests/regression/ @pablosancheznunez
 /src/engine.js @pablosancheznunez
 /.github/ @pablosancheznunez
+/r/R/engine.R @pablosancheznunez
+/r/inst/extdata/indicators.json @pablosancheznunez
+/r/tests/testthat/fixtures/ @pablosancheznunez

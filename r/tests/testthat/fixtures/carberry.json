@@ -1,0 +1,531 @@
+{
+ "schema": "orm-report/1",
+ "catalog_version": "0.1.0",
+ "orcid": "0000-0002-1825-0097",
+ "generated_at": "2026-11-02T00:00:00Z",
+ "sources_consulted": [
+  {
+   "source": "openalex",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "retrieved_at": "2026-11-02T00:00:00Z"
+  },
+  {
+   "source": "datacite",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "retrieved_at": "2026-11-02T00:00:00Z"
+  },
+  {
+   "source": "openaire",
+   "ok": true,
+   "count": 1,
+   "error": null,
+   "retrieved_at": "2026-11-02T00:00:00Z"
+  }
+ ],
+ "indicators": [
+  {
+   "id": "oa-publications-share",
+   "family": "availability",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0.52,
+   "numerator": 13,
+   "denominator": 25,
+   "evidence": [
+    {
+     "source": "openalex",
+     "type": "review",
+     "title": "‘Dignity therapy’, a promising intervention in palliative care: A comprehensive systematic literature review",
+     "year": 2016,
+     "url": "https://doi.org/10.1177/0269216316665562",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "ALTERNATIVE FOOD NETWORKS AND NEW PRODUCER-CONSUMER RELATIONS IN FRANCE AND IN BRAZIL",
+     "year": 2016,
+     "url": "https://doi.org/10.1590/1809-4422asoc121132v1922016",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Definisi Dan Teori Pendekatan, Strategi, Dan Metode Pembelajaran",
+     "year": 2023,
+     "url": "https://doi.org/10.21927/ijeeti.2023.2(1).20-31",
+     "is_oa": true,
+     "oa_status": "bronze",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Primal topological spaces",
+     "year": 2025,
+     "url": "https://doi.org/10.5269/bspm.66792",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Visualization strategies for regression estimates with randomization inference",
+     "year": 2020,
+     "url": "https://doi.org/10.1177/1536867x20930999",
+     "is_oa": true,
+     "oa_status": "green",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Wide-bandwidth mode-hop-free tuning of extended-cavity GaN diode lasers",
+     "year": 2005,
+     "url": "https://doi.org/10.1364/ao.44.003675",
+     "is_oa": true,
+     "oa_status": "bronze",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Multicenter Study of the Psychometric Properties of the New Demoralization Scale (DS-II) in Spanish-Speaking Advanced Cancer Patients",
+     "year": 2018,
+     "url": "https://doi.org/10.1016/j.jpainsymman.2018.11.016",
+     "is_oa": true,
+     "oa_status": "bronze",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Scaling of Glycine Nucleation Kinetics with Shear Rate and Glass–Liquid Interfacial Area",
+     "year": 2015,
+     "url": "https://doi.org/10.1021/acs.cgd.5b01042",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Sistem Informasi Manajemen Keuangan pada PT. Hulu Balang Mandiri Menggunakan Framework Laravel",
+     "year": 2019,
+     "url": "https://doi.org/10.23960/komputasi.v7i1.2051",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "conference-paper",
+     "title": "k-Nearest Neighbor (k-NN) Classification for Recognition of the Batik Lampung Motifs",
+     "year": 2019,
+     "url": "https://doi.org/10.1088/1742-6596/1338/1/012061",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Does Agricultural Performance Contribute to Rural Poverty Reduction in Indonesia?",
+     "year": 2020,
+     "url": "https://doi.org/10.15294/jejak.v13i1.20178",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Characteristics of the case mix, organisation and delivery in cancer palliative care: a challenge for good-quality research",
+     "year": 2016,
+     "url": "https://doi.org/10.1136/bmjspcare-2015-000997",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Toward a Unified Theory of High-Energy Metaphysics: Silly String Theory",
+     "year": 2008,
+     "url": "https://doi.org/10.5555/12345678",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": false,
+     "access_right": null,
+     "citations": null
+    }
+   ]
+  },
+  {
+   "id": "oa-repository-share",
+   "family": "accessibility",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0.28,
+   "numerator": 7,
+   "denominator": 25,
+   "evidence": [
+    {
+     "source": "openalex",
+     "type": "review",
+     "title": "‘Dignity therapy’, a promising intervention in palliative care: A comprehensive systematic literature review",
+     "year": 2016,
+     "url": "https://doi.org/10.1177/0269216316665562",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "ALTERNATIVE FOOD NETWORKS AND NEW PRODUCER-CONSUMER RELATIONS IN FRANCE AND IN BRAZIL",
+     "year": 2016,
+     "url": "https://doi.org/10.1590/1809-4422asoc121132v1922016",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Primal topological spaces",
+     "year": 2025,
+     "url": "https://doi.org/10.5269/bspm.66792",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Visualization strategies for regression estimates with randomization inference",
+     "year": 2020,
+     "url": "https://doi.org/10.1177/1536867x20930999",
+     "is_oa": true,
+     "oa_status": "green",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Wide-bandwidth mode-hop-free tuning of extended-cavity GaN diode lasers",
+     "year": 2005,
+     "url": "https://doi.org/10.1364/ao.44.003675",
+     "is_oa": true,
+     "oa_status": "bronze",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Does Agricultural Performance Contribute to Rural Poverty Reduction in Indonesia?",
+     "year": 2020,
+     "url": "https://doi.org/10.15294/jejak.v13i1.20178",
+     "is_oa": true,
+     "oa_status": "diamond",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    },
+    {
+     "source": "openalex",
+     "type": "article",
+     "title": "Characteristics of the case mix, organisation and delivery in cancer palliative care: a challenge for good-quality research",
+     "year": 2016,
+     "url": "https://doi.org/10.1136/bmjspcare-2015-000997",
+     "is_oa": true,
+     "oa_status": "hybrid",
+     "repository_fulltext": true,
+     "access_right": null,
+     "citations": null
+    }
+   ]
+  },
+  {
+   "id": "openaire-open-access-right-share",
+   "family": "accessibility",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0,
+   "numerator": 0,
+   "denominator": 1,
+   "evidence": []
+  },
+  {
+   "id": "datasets-shared",
+   "family": "availability",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 6,
+   "numerator": 6,
+   "denominator": null,
+   "evidence": [
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Opgraving - variant archeologische begeleiding leidingverleggingen Zernike-terrein, Groningen",
+     "year": 2020,
+     "url": "https://doi.org/10.17026/dans-xxt-v8cc",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Archeologisch onderzoek uitbreiding haven Wanssum, Kartering PLUS terrein toekomstige havenuitbreiding Wanssum, gemeente Venray",
+     "year": 2018,
+     "url": "https://doi.org/10.17026/dans-zpj-tfmn",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Social Ball: An immersive research paradigm to study social ostracism",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/nlr2yi",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Replication Data for: Raising awareness about social exclusion in schools through experiential learning",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/9jyg6y",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 1
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Intent, intensity, and ambiguity: Appraisals of workplace ostracism and coping responses",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/p10wah",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Consumer Health Information Specialization (CHIS) Sponsorship Program Improves the Capacity of Public Library Staff to Provide Health Information to their Community",
+     "year": 2020,
+     "url": "https://doi.org/10.25820/data.006118",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    }
+   ]
+  },
+  {
+   "id": "software-shared",
+   "family": "availability",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0,
+   "numerator": 0,
+   "denominator": null,
+   "evidence": []
+  },
+  {
+   "id": "shared-outputs-cited-share",
+   "family": "reuse",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0.167,
+   "numerator": 1,
+   "denominator": 6,
+   "evidence": [
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Replication Data for: Raising awareness about social exclusion in schools through experiential learning",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/9jyg6y",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 1
+    }
+   ]
+  },
+  {
+   "id": "data-software-per-publication",
+   "family": "reproducibility",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0.24,
+   "numerator": 6,
+   "denominator": 25,
+   "evidence": [
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Opgraving - variant archeologische begeleiding leidingverleggingen Zernike-terrein, Groningen",
+     "year": 2020,
+     "url": "https://doi.org/10.17026/dans-xxt-v8cc",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Archeologisch onderzoek uitbreiding haven Wanssum, Kartering PLUS terrein toekomstige havenuitbreiding Wanssum, gemeente Venray",
+     "year": 2018,
+     "url": "https://doi.org/10.17026/dans-zpj-tfmn",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Social Ball: An immersive research paradigm to study social ostracism",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/nlr2yi",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Replication Data for: Raising awareness about social exclusion in schools through experiential learning",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/9jyg6y",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 1
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Intent, intensity, and ambiguity: Appraisals of workplace ostracism and coping responses",
+     "year": 2022,
+     "url": "https://doi.org/10.34894/p10wah",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    },
+    {
+     "source": "datacite",
+     "type": "Dataset",
+     "title": "Consumer Health Information Specialization (CHIS) Sponsorship Program Improves the Capacity of Public Library Staff to Provide Health Information to their Community",
+     "year": 2020,
+     "url": "https://doi.org/10.25820/data.006118",
+     "is_oa": null,
+     "oa_status": null,
+     "repository_fulltext": null,
+     "access_right": null,
+     "citations": 0
+    }
+   ]
+  },
+  {
+   "id": "preprints-share",
+   "family": "transparency",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0,
+   "numerator": 0,
+   "denominator": 25,
+   "evidence": []
+  },
+  {
+   "id": "study-registrations",
+   "family": "transparency",
+   "methodology_version": "1.0.0",
+   "status": "computed",
+   "reason": null,
+   "value": 0,
+   "numerator": 0,
+   "denominator": null,
+   "evidence": []
+  }
+ ]
+}
