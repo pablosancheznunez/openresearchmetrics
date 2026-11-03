@@ -1,4 +1,4 @@
-# openresearchmetrics 0.1.0.9000
+# openresearchmetrics 0.1.0
 
 * First R package. Mirrors the web tool's engine (catalogue 0.1.0, all nine
   indicators at methodology version 1.0.0) and connectors to OpenAlex,
