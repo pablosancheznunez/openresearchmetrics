@@ -3,7 +3,7 @@ url: https://pablosancheznunez.com/openresearchmetrics/r/
 template:
   bootstrap: 5
   bslib:
-    primary: "#1a4d8f"
+    primary: "#0f6fb0"
 
 authors:
   Pablo Sánchez-Núñez:

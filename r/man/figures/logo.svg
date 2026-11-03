@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 278" width="240" height="278" role="img" aria-label="ORMetrics logo">
+  <polygon points="120,4 236,71 236,207 120,274 4,207 4,71" fill="#0f6fb0" stroke="#0b5486" stroke-width="6"/>
+  <rect x="54" y="60" width="132" height="116" rx="10" fill="#ffffff" opacity=".96"/>
+  <g stroke-linecap="round" stroke-width="9">
+    <line x1="74" y1="84" x2="166" y2="84" stroke="#d3e4f2"/>
+    <line x1="74" y1="84" x2="146" y2="84" stroke="#0f6fb0"/>
+    <line x1="74" y1="108" x2="166" y2="108" stroke="#d3e4f2"/>
+    <line x1="74" y1="108" x2="112" y2="108" stroke="#0f6fb0"/>
+    <line x1="74" y1="132" x2="166" y2="132" stroke="#d3e4f2"/>
+    <line x1="74" y1="132" x2="158" y2="132" stroke="#0f6fb0"/>
+    <line x1="74" y1="156" x2="166" y2="156" stroke="#d3e4f2"/>
+    <line x1="74" y1="156" x2="94" y2="156" stroke="#f2b84b"/>
+  </g>
+  <text x="120" y="226" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#ffffff">ORMetrics</text>
+</svg>

@@ -1,4 +1,4 @@
-# ORMetrics (R package)
+# ORMetrics <img src="man/figures/logo.svg" align="right" height="139" alt="ORMetrics logo" />
 
 The R counterpart of the [OpenResearchMetrics web tool](https://pablosancheznunez.com/openresearchmetrics/): transparent open science indicators for responsible research assessment. Each indicator is reported on its own, with its evidence, the sources consulted and its limits. **There is no composite score**, and an indicator that cannot be verified is `unverifiable`, never zero.
 
