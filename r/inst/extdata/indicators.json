@@ -1,0 +1,136 @@
+{
+  "catalog_version": "0.1.0",
+  "valid_from": "2026-11-02",
+  "status": "draft: fields checked against live OpenAlex, DataCite (schema 4.5+, incl. StudyRegistration) and OpenAIRE Graph v1 responses; pending review by research assessment experts",
+  "principles": [
+    "Each indicator is reported on its own, with its evidence and its limits. There is no composite score.",
+    "An indicator that cannot be verified from the sources consulted is reported as unverifiable, never as zero.",
+    "Indicators describe open practices; they do not measure research quality."
+  ],
+  "families": [
+    { "id": "availability", "name": "Availability", "question": "Are the outputs openly available?" },
+    { "id": "accessibility", "name": "Accessibility", "question": "Are they kept accessible in the long term?" },
+    { "id": "reuse", "name": "Reuse", "question": "Are shared outputs being reused?" },
+    { "id": "reproducibility", "name": "Declared reproducibility", "question": "Are data and code shared alongside publications?" },
+    { "id": "transparency", "name": "Methodological transparency", "question": "Are methods and early results shared openly?" }
+  ],
+  "indicators": [
+    {
+      "id": "oa-publications-share",
+      "name": "Open access share of publications",
+      "family": "availability",
+      "definition": "Share of the researcher's publications that are free to read in any form (gold, diamond, hybrid, bronze or green).",
+      "rationale": "Open access to publications is the most established open science practice and a baseline in DORA- and CoARA-aligned assessment.",
+      "unit_of_analysis": "researcher",
+      "numerator": "OpenAlex works of type article, review, book, book-chapter or conference-paper with open_access.is_oa = true",
+      "denominator": "OpenAlex works of those types",
+      "sources": ["openalex"],
+      "limitations": ["Depends on OpenAlex author disambiguation by ORCID iD.", "Coverage is weaker for books, humanities and non-English outputs.", "Bronze (free to read on the publisher site without a licence) can be withdrawn."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "oa-repository-share",
+      "name": "Repository copy share",
+      "family": "accessibility",
+      "definition": "Share of publications with a full text in at least one repository (green route).",
+      "rationale": "A repository copy keeps a publication accessible independently of the publisher's policy.",
+      "unit_of_analysis": "researcher",
+      "numerator": "OpenAlex works of the same types with open_access.any_repository_has_fulltext = true",
+      "denominator": "OpenAlex works of those types",
+      "sources": ["openalex"],
+      "limitations": ["Only repositories indexed by OpenAlex are seen.", "Does not check the licence of the repository copy."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "openaire-open-access-right-share",
+      "name": "Open access right in OpenAIRE",
+      "family": "accessibility",
+      "definition": "Share of research products in the OpenAIRE Graph whose best access right is OPEN ACCESS.",
+      "rationale": "A second, independent source on access rights, covering datasets and software as well as publications.",
+      "unit_of_analysis": "researcher",
+      "numerator": "OpenAIRE products with bestAccessRight.label = OPEN ACCESS",
+      "denominator": "OpenAIRE products linked to the ORCID iD",
+      "sources": ["openaire"],
+      "limitations": ["Only products where OpenAIRE links an author to the ORCID iD.", "Access rights depend on repository metadata."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "datasets-shared",
+      "name": "Datasets shared with a DOI",
+      "family": "availability",
+      "definition": "Number of datasets with a DataCite DOI whose metadata identify the researcher by ORCID iD.",
+      "rationale": "Sharing data in a repository with a persistent identifier is a precondition for findability and reuse.",
+      "unit_of_analysis": "researcher",
+      "numerator": "DataCite DOIs with resourceTypeGeneral = Dataset",
+      "denominator": null,
+      "sources": ["datacite"],
+      "limitations": ["Only datasets whose metadata carry the ORCID iD.", "A count is not comparable across disciplines with different data practices."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "software-shared",
+      "name": "Software shared with a DOI",
+      "family": "availability",
+      "definition": "Number of software releases or notebooks with a DataCite DOI whose metadata identify the researcher by ORCID iD.",
+      "rationale": "Archived, citable software is part of the research record.",
+      "unit_of_analysis": "researcher",
+      "numerator": "DataCite DOIs with resourceTypeGeneral = Software or ComputationalNotebook",
+      "denominator": null,
+      "sources": ["datacite"],
+      "limitations": ["Code shared only on GitHub without an archived DOI is not seen.", "Each version may have its own DOI, so counts can include versions."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "shared-outputs-cited-share",
+      "name": "Shared data and software cited",
+      "family": "reuse",
+      "definition": "Share of the researcher's datasets and software (DataCite DOIs) cited at least once according to DataCite.",
+      "rationale": "Citation of shared data and software is a visible, if partial, trace of reuse.",
+      "unit_of_analysis": "researcher",
+      "numerator": "DataCite datasets and software with citationCount > 0",
+      "denominator": "DataCite datasets and software",
+      "sources": ["datacite"],
+      "limitations": ["Data citation is still rare and unevenly recorded.", "Reuse without citation is invisible.", "Self-citations are not excluded."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "data-software-per-publication",
+      "name": "Data and software outputs per publication",
+      "family": "reproducibility",
+      "definition": "Ratio of shared datasets and software (DataCite) to publications (OpenAlex).",
+      "rationale": "A rough proxy for how often publications come with their underlying data or code.",
+      "unit_of_analysis": "researcher",
+      "numerator": "DataCite datasets, software and notebooks",
+      "denominator": "OpenAlex works of type article, review, book, book-chapter or conference-paper",
+      "sources": ["datacite", "openalex"],
+      "limitations": ["It does not verify that a dataset belongs to a given publication.", "Theoretical and qualitative fields legitimately produce fewer data outputs."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "preprints-share",
+      "name": "Preprint share",
+      "family": "transparency",
+      "definition": "Share of the researcher's works in OpenAlex that are preprints.",
+      "rationale": "Preprints make results and methods open to scrutiny before formal peer review.",
+      "unit_of_analysis": "researcher",
+      "numerator": "OpenAlex works of type preprint",
+      "denominator": "All OpenAlex works",
+      "sources": ["openalex"],
+      "limitations": ["Preprint and published versions may be merged into one work.", "Preprint culture differs strongly across disciplines."],
+      "methodology_version": "1.0.0"
+    },
+    {
+      "id": "study-registrations",
+      "name": "Study registrations",
+      "family": "transparency",
+      "definition": "Number of study registrations and preregistrations with a DataCite DOI identifying the researcher.",
+      "rationale": "Registering hypotheses and analysis plans before data collection is a core transparency practice.",
+      "unit_of_analysis": "researcher",
+      "numerator": "DataCite DOIs with resourceTypeGeneral = StudyRegistration",
+      "denominator": null,
+      "sources": ["datacite"],
+      "limitations": ["Registries without DataCite DOIs (for example many clinical trial registries) are not seen.", "Only meaningful for empirical, hypothesis-testing research."],
+      "methodology_version": "1.0.0"
+    }
+  ]
+}

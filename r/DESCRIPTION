@@ -1,0 +1,34 @@
+Package: ORMetrics
+Title: Transparent Open Science Indicators for Responsible Research Assessment
+Version: 0.1.0
+Authors@R:
+    person("Pablo", "Sánchez-Núñez", email = "psancheznunez@outlook.com",
+           role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0001-7845-9506"))
+Description: Computes open science indicators for a researcher from the
+    evidence held by 'OpenAlex' <https://openalex.org/>, 'DataCite'
+    <https://datacite.org/> and the 'OpenAIRE' Graph
+    <https://graph.openaire.eu/>: open access share, repository copies,
+    shared datasets and software, reuse of shared outputs, preprints and
+    study registrations. Each indicator is reported on its own, with its
+    definition, its evidence, the sources consulted and its limitations;
+    there is no composite score. An indicator that cannot be verified from
+    the sources is reported as unverifiable, never as zero. Definitions
+    come from a versioned catalogue shared with the web tool, and every
+    definition is bound to the code of its exact methodology version.
+License: MIT + file LICENSE
+URL: https://pablosancheznunez.com/openresearchmetrics/,
+    https://github.com/pablosancheznunez/openresearchmetrics
+BugReports: https://github.com/pablosancheznunez/openresearchmetrics/issues
+Depends:
+    R (>= 4.1.0)
+Imports:
+    curl,
+    jsonlite,
+    utils
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1

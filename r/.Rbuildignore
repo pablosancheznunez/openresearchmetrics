@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.md$
+^cran-comments\.md$
+^doc$
+^Meta$
+^_pkgdown\.yml$
+^pkgdown$
+^docs$
+^man/figures/card\.png$

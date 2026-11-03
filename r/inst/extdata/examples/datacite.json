@@ -1,0 +1,601 @@
+{
+ "data": [
+  {
+   "id": "10.17026/dans-xxt-v8cc",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.17026/dans-xxt-v8cc",
+    "titles": [
+     {
+      "title": "Opgraving - variant archeologische begeleiding leidingverleggingen Zernike-terrein, Groningen"
+     },
+     {
+      "titleType": "AlternativeTitle",
+      "title": "Antea Group Archeologie 2019/16"
+     }
+    ],
+    "publicationYear": 2020,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA"
+    },
+    "url": "https://archaeology.datastations.nl/citation?persistentId=doi:10.17026/DANS-XXT-V8CC",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.71624/zkep7v67",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.71624/zkep7v67",
+    "titles": [
+     {
+      "titleType": null,
+      "lang": null,
+      "title": "Exploration of roles and barriers of husband involvement in family planning among married couples in Afar pastoral communities of Ethiopia"
+     }
+    ],
+    "publicationYear": 2020,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://journal.mu.edu.et/index.php/eajhs/article/view/339",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.71624/brgtfa55",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.71624/brgtfa55",
+    "titles": [
+     {
+      "titleType": null,
+      "lang": null,
+      "title": "Identification and Prevalence of Ectoparasites in backyard chicken populations, and Associated Risk Factors in Gulomekeda Wereda, Eastern Tigray, Ethiopia"
+     }
+    ],
+    "publicationYear": 2023,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://journal.mu.edu.et/index.php/ejvsap/article/view/793",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.34635/rpc.1127",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.34635/rpc.1127",
+    "titles": [
+     {
+      "title": "Gastric Schwannoma: A Case Report of a Rare Differential Diagnosis to Consider in Gastric Tumours"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "title": "Schwannoma Gástrico: Relato de Caso de um Diagnóstico Diferencial Raro a ser Considerado em Tumores Gástricos"
+     }
+    ],
+    "publicationYear": 2026,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revista.spcir.com/index.php/spcir/article/view/1127",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.60568/eic.v8i1.3882",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.60568/eic.v8i1.3882",
+    "titles": [
+     {
+      "title": "Conciliación de Maternidad, Estudios y Vida Social en Jóvenes Madres Estudiantes de Enfermería"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "title": "Balancing Motherhood, Studies and Social Life in Young Mothers Studying Nursing"
+     }
+    ],
+    "publicationYear": 2026,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revistas.uaz.edu.mx/index.php/eic/article/view/3882",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.60568/eic.v7i1.3346",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.60568/eic.v7i1.3346",
+    "titles": [
+     {
+      "title": "DINÁMICA EDUCATIVA: FACTOR ASOCIADO AL BURNOUT ACADÉMICO EN ESTUDIANTES DE TERCER SEMESTRE DE ENFERMERÍA"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "title": "EDUCATIONAL DYNAMICS: FACTOR ASSOCIATED WITH ACADEMIC BURNOUT IN THIRD SEMESTER NURSING STUDENTS"
+     }
+    ],
+    "publicationYear": 2025,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revistas.uaz.edu.mx/index.php/eic/article/view/3346",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48374/imist.prsm/ame-v7i4.56680",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48374/imist.prsm/ame-v7i4.56680",
+    "titles": [
+     {
+      "title": "Croyances religieuses et succès des entreprises béninoises"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "title": "Religious Beliefs and the Success of Beninese Businesses"
+     }
+    ],
+    "publicationYear": 2025,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/AME/article/view/56680",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.17026/dans-zpj-tfmn",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.17026/dans-zpj-tfmn",
+    "titles": [
+     {
+      "title": "Archeologisch onderzoek uitbreiding haven Wanssum, Kartering PLUS terrein toekomstige havenuitbreiding Wanssum, gemeente Venray"
+     }
+    ],
+    "publicationYear": 2018,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA"
+    },
+    "url": "https://archaeology.datastations.nl/citation?persistentId=doi:10.17026/DANS-ZPJ-TFMN",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.34894/nlr2yi",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.34894/nlr2yi",
+    "titles": [
+     {
+      "title": "Social Ball: An immersive research paradigm to study social ostracism"
+     }
+    ],
+    "publicationYear": 2022,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA",
+     "resourceType": "Experimental data;Secondary data"
+    },
+    "url": "https://dataverse.nl/citation?persistentId=doi:10.34894/NLR2YI",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.34894/9jyg6y",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.34894/9jyg6y",
+    "titles": [
+     {
+      "title": "Replication Data for: Raising awareness about social exclusion in schools through experiential learning"
+     }
+    ],
+    "publicationYear": 2022,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA",
+     "resourceType": "Secondary data"
+    },
+    "url": "https://dataverse.nl/citation?persistentId=doi:10.34894/9JYG6Y",
+    "citationCount": 1
+   }
+  },
+  {
+   "id": "10.34894/p10wah",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.34894/p10wah",
+    "titles": [
+     {
+      "title": "Intent, intensity, and ambiguity: Appraisals of workplace ostracism and coping responses"
+     }
+    ],
+    "publicationYear": 2022,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA",
+     "resourceType": "Experimental Data;Survey data"
+    },
+    "url": "https://dataverse.nl/citation?persistentId=doi:10.34894/P10WAH",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48612/rg/rgw.27.4.10",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48612/rg/rgw.27.4.10",
+    "titles": [
+     {
+      "lang": "ru",
+      "title": "Создание свободных экономических зон в Китайской Народной Республике (историко-политологический анализ)"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "lang": "en",
+      "title": "Creation of Free Economic Zones in the People's Republic of China (Historical and Political Analysis)"
+     }
+    ],
+    "publicationYear": 2024,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://russiaglobal.spbstu.ru/userfiles/files/10_-Kalashnikova-N_P_%2C-Pavlova-O_K_-181-200.pdf",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.5281/zenodo.5745505",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.5281/zenodo.5745505",
+    "titles": [
+     {
+      "title": "Efficient Distributed GPU Programming for Exascale"
+     }
+    ],
+    "publicationYear": 2021,
+    "types": {
+     "schemaOrg": "CreativeWork",
+     "resourceTypeGeneral": "InteractiveResource",
+     "citeproc": "article",
+     "bibtex": "misc",
+     "ris": "GEN"
+    },
+    "url": "https://zenodo.org/record/5745505",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.5281/zenodo.6603470",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.5281/zenodo.6603470",
+    "titles": [
+     {
+      "title": "Efficient Distributed GPU Programming for Exascale"
+     }
+    ],
+    "publicationYear": 2022,
+    "types": {
+     "schemaOrg": "CreativeWork",
+     "resourceTypeGeneral": "InteractiveResource",
+     "citeproc": "article",
+     "bibtex": "misc",
+     "ris": "GEN"
+    },
+    "url": "https://zenodo.org/record/6603470",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.25820/data.006118",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.25820/data.006118",
+    "titles": [
+     {
+      "title": "Consumer Health Information Specialization (CHIS) Sponsorship Program Improves the Capacity of Public Library Staff to Provide Health Information to their Community"
+     }
+    ],
+    "publicationYear": 2020,
+    "types": {
+     "schemaOrg": "Dataset",
+     "resourceTypeGeneral": "Dataset",
+     "citeproc": "dataset",
+     "bibtex": "misc",
+     "ris": "DATA",
+     "resourceType": "Tabular Data"
+    },
+    "url": "https://iro.uiowa.edu/esploro/outputs/dataset/9983780298702771",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48346/imist.prsm/ajlp-gs.v6i4.41794",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48346/imist.prsm/ajlp-gs.v6i4.41794",
+    "titles": [
+     {
+      "title": "UN NOUVEAU PARADIGME DE GESTION DU PATRIMOINE FONCIER NATIONAL EN MAURITANIE POUR UNE MEILLEURE INTRODUCTION DE L’AGROBUSINESS"
+     }
+    ],
+    "publicationYear": 2024,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/AJLP-GS/article/view/41794",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48346/imist.prsm/ajlp-gs.v6i5.40729",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48346/imist.prsm/ajlp-gs.v6i5.40729",
+    "titles": [
+     {
+      "title": "Foncier et recompositions sociales en Mauritanie Analyse socio-anthropologique et juridique des difficultés d’accès des descendants des couches serviles à la terre"
+     }
+    ],
+    "publicationYear": 2023,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/AJLP-GS/article/view/40729",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48346/imist.prsm/ajlp-gs.v3i3.22866",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48346/imist.prsm/ajlp-gs.v3i3.22866",
+    "titles": [
+     {
+      "title": "Foncier et genre : Difficile accès des femmes à la terre dans le milieu rural de la Vallée du Fleuve Sénégal (sud de la Mauritanie)"
+     }
+    ],
+    "publicationYear": 2020,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/AJLP-GS/article/view/22866",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48346/imist.prsm/ajlp-gs.v2i3.13949",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48346/imist.prsm/ajlp-gs.v2i3.13949",
+    "titles": [
+     {
+      "title": "LE FONCIER EN MAURITANIE : SITUATION, DÉFIS ET QUÊTE D’ADAPTATION"
+     }
+    ],
+    "publicationYear": 2019,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/AJLP-GS/article/view/13949",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.48317/imist.prsm/morjchem-v6i2.10118",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48317/imist.prsm/morjchem-v6i2.10118",
+    "titles": [
+     {
+      "title": "DFT study on the adsorption mechanism of pulegone and pulegone oxide molecules in gas and aqueous phases as effective corrosion inhibitors in Molar Hydrochloric Acid."
+     }
+    ],
+    "publicationYear": 2017,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/morjchem/article/view/10118",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.34874/prsm.remadip-vol2iss2.25399",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.34874/prsm.remadip-vol2iss2.25399",
+    "titles": [
+     {
+      "title": "L'influence de la toile sur les valeurs des préados"
+     }
+    ],
+    "publicationYear": 2022,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://revues.imist.ma/index.php/ReMaDiP/article/view/25399",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.5282/mthz/110",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.5282/mthz/110",
+    "titles": [
+     {
+      "title": "Geleitwort zur \"Münchener Theologischen Zeitschrift\""
+     }
+    ],
+    "publicationYear": 2014,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://mthz.ub.uni-muenchen.de/MThZ/article/view/1950H1S1-3",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.4230/oasics.wcet.2018.1",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.4230/oasics.wcet.2018.1",
+    "titles": [
+     {
+      "lang": "en",
+      "title": "Mixed Feelings About Mixed Criticality (Invited Paper)"
+     }
+    ],
+    "publicationYear": 2018,
+    "types": {
+     "schemaOrg": "Article",
+     "resourceTypeGeneral": "ConferencePaper",
+     "citeproc": "",
+     "bibtex": "inproceedings",
+     "ris": "CPAPER",
+     "resourceType": "Invited Paper"
+    },
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.WCET.2018.1",
+    "citationCount": 1
+   }
+  },
+  {
+   "id": "10.48612/rg/rgw.26.4.6",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.48612/rg/rgw.26.4.6",
+    "titles": [
+     {
+      "titleType": null,
+      "lang": "ru",
+      "title": "Политика церкви и государства на примере  Христианско-демократической партии Норвегии:  история и современность"
+     },
+     {
+      "titleType": "TranslatedTitle",
+      "lang": "en",
+      "title": "Politics of the Church and State on the Example  of the Christian Democratic Party of Norway:  History and Present"
+     }
+    ],
+    "publicationYear": 2023,
+    "types": {
+     "schemaOrg": "ScholarlyArticle",
+     "resourceTypeGeneral": "JournalArticle",
+     "citeproc": "article-journal",
+     "bibtex": "article",
+     "ris": "JOUR"
+    },
+    "url": "https://russiaglobal.spbstu.ru/userfiles/files/6-Belokoz%2C-Pavlova-88-101.pdf",
+    "citationCount": 0
+   }
+  },
+  {
+   "id": "10.4230/lipics.approx-random.2018.44",
+   "type": "dois",
+   "attributes": {
+    "doi": "10.4230/lipics.approx-random.2018.44",
+    "titles": [
+     {
+      "lang": "en",
+      "title": "Commutative Algorithms Approximate the LLL-distribution"
+     }
+    ],
+    "publicationYear": 2018,
+    "types": {
+     "schemaOrg": "Article",
+     "resourceTypeGeneral": "ConferencePaper",
+     "citeproc": "",
+     "bibtex": "inproceedings",
+     "ris": "CPAPER"
+    },
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX-RANDOM.2018.44",
+    "citationCount": 0
+   }
+  }
+ ],
+ "meta": {
+  "total": 195
+ }
+}
