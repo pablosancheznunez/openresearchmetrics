@@ -1,0 +1,25 @@
+url: https://pablosancheznunez.com/openresearchmetrics/r/
+
+template:
+  bootstrap: 5
+  bslib:
+    primary: "#1a4d8f"
+
+authors:
+  Pablo Sánchez-Núñez:
+    href: https://pablosancheznunez.com
+
+home:
+  title: "ORMetrics: transparent open science indicators"
+  links:
+  - text: Web tool (no installation)
+    href: https://pablosancheznunez.com/openresearchmetrics/
+  - text: All R packages
+    href: https://pablosancheznunez.com/r-packages/
+  - text: Author website
+    href: https://pablosancheznunez.com
+
+navbar:
+  structure:
+    left: [intro, reference, news]
+    right: [search, github]

@@ -6,7 +6,7 @@ Transparent open science indicators for responsible research assessment. Each in
 
 **Use it in the browser:** <https://pablosancheznunez.com/openresearchmetrics/>. Enter an ORCID iD; the page queries OpenAlex, DataCite and the OpenAIRE Graph directly from your browser.
 
-**Use it from R** (prototype): the ORMetrics package in [`r/`](r/) computes the same report from the same catalogue; its tests check it against the web tool's regression report.
+**Use it from R** (prototype): the ORMetrics package in [`r/`](r/) ([documentation](https://pablosancheznunez.com/openresearchmetrics/r/)) computes the same report from the same catalogue; its tests check it against the web tool's regression report.
 
 ```r
 remotes::install_github("pablosancheznunez/openresearchmetrics", subdir = "r")
